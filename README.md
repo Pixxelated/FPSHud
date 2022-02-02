@@ -10,7 +10,7 @@ Requires [Mod Menu](https://github.com/TerraformersMC/ModMenu)
 * Change opacity and color
 * Toggle Hold Key to Show FPS
 
-![Config menu using Mod Menu](https://i.imgur.com/6wk4xYS.png)
+![Config menu using Mod Menu](https://i.imgur.com/KW7Tnbi.png)
 
 ## Downloads:
 * CurseForge:
