@@ -12,6 +12,8 @@ public class FpsConfig implements ConfigData {
 
     public boolean shadow = false;
 
+    public boolean bg = false;
+
     @ConfigEntry.BoundedDiscrete(min = 0, max = 255)
     public int opacity = 255;
 

@@ -1,8 +1,9 @@
 {
   "text.autoconfig.fps.option.enabled": "Enabled",
   "text.autoconfig.fps.option.shadow": "Text Shadow",
-  "text.autoconfig.fps.option.color": "Text Colour",
+  "text.autoconfig.fps.option.bg": "Background",
   "text.autoconfig.fps.option.opacity": "Text Opacity",
+  "text.autoconfig.fps.option.color": "Text Colour",
   "text.autoconfig.fps.option.holdKeyToShowFps": "Hold key to show FPS",
   "key.fps.toggleFpsOverlay": "Toggle FPS Overlay",
   "key.fps.category": "FPS HUD"
