@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "fps",
+  "version": "1.0-1.18.1",
+  "name": "FPSHud",
+  "description": "Displays your FPS on the HUD",
+  "authors": [
+    "Pixxel"
+  ],
+  "contact": {
+    "repo": "https://github.com/Pixxelated/FpsHUD"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/fps/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "modmenu": [
+      "me.pixxel.fps.config.ModMenuIntegration"
+    ],
+    "client": [
+      "me.pixxel.fps.FpsMod"
+    ]
+  },
+  "mixins": [
+    "fps.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.0",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
