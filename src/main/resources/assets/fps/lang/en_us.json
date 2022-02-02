@@ -1,4 +1,5 @@
 {
+  "text.autoconfig.fps.title": "FPS Hud",
   "text.autoconfig.fps.option.enabled": "Enabled",
   "text.autoconfig.fps.option.shadow": "Text Shadow",
   "text.autoconfig.fps.option.bg": "Background",
@@ -6,5 +7,5 @@
   "text.autoconfig.fps.option.color": "Text Color",
   "text.autoconfig.fps.option.holdKeyToShowFps": "Hold key to show FPS",
   "key.fps.toggleFpsOverlay": "Toggle FPS Overlay",
-  "key.fps.category": "FPS HUD"
+  "key.fps.category": "FPS Hud"
 }
