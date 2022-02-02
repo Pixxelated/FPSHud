@@ -14,4 +14,4 @@ Requires [Mod Menu](https://github.com/TerraformersMC/ModMenu)
 
 ## Downloads:
 * CurseForge:
-* Github Releases:
+* Github Releases: https://github.com/Pixxelated/FPSHud/releases
