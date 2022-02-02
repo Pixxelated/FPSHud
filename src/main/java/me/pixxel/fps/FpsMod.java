@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 @Environment(EnvType.CLIENT)
 public class FpsMod implements ClientModInitializer {
 
-    public String NAME = "FPS Mod", VERSION = "v1.0", AUTHOR = "Pixxel", NAMEVER = NAME + VERSION;
+    public String NAME = "FPS Hud", VERSION = "v1.0", AUTHOR = "Pixxel", NAMEVER = NAME + VERSION;
     public static final Logger LOGGER = LoggerFactory.getLogger("fps");
     public static Boolean SHOW_FPS;
     public static FpsConfig CONFIG;
