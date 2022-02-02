@@ -8,7 +8,7 @@ A Fabric mod that displays your FPS on the HUD.
 Requires [Mod Menu](https://github.com/TerraformersMC/ModMenu)
 * Toggle display, shadow, and background
 * Change opacity and color
-* Toggle Hold Key to Show FPS
+* Hold Key to Show FPS
 
 ![Config menu using Mod Menu](https://i.imgur.com/KW7Tnbi.png)
 
