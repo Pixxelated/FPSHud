@@ -13,5 +13,5 @@ Requires [Mod Menu](https://github.com/TerraformersMC/ModMenu)
 ![Config menu using Mod Menu](https://i.imgur.com/TcofN41.png)
 
 ## Downloads:
-* CurseForge:
+* CurseForge: https://www.curseforge.com/minecraft/mc-mods/fps-hud
 * Github Releases: https://github.com/Pixxelated/FPSHud/releases
