@@ -12,13 +12,19 @@ public class FpsConfig implements ConfigData {
 
     public boolean shadow = false;
 
-    public boolean bg = false;
+    @ConfigEntry.ColorPicker
+    public int color = 0xFFFFFF;
 
     @ConfigEntry.BoundedDiscrete(min = 0, max = 255)
     public int opacity = 255;
 
+    public boolean bg = false;
+
     @ConfigEntry.ColorPicker
-    public int color = 0xFFFFFF;
+    public int bgColor = 0x000000;
+
+    @ConfigEntry.BoundedDiscrete(min = 0, max = 255)
+    public int bgOpacity = 150;
 
     public boolean holdKeyToShowFps = false;
 }
