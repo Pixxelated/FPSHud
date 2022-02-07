@@ -7,7 +7,7 @@ version = project.mod_version
 group = project.maven_group
 
 repositories {
-    maven { url = "https://maven.shedaniel.me/" }
+    maven { url = "giut" }
     maven { url = "https://maven.terraformersmc.com/" }
     maven { url = "https://jitpack.io" }
 }
@@ -26,10 +26,10 @@ dependencies {
     includeFabricApiModule "fabric-lifecycle-events-v1"
 
     // Mod Menu
-    modImplementation "com.terraformersmc:modmenu:3.0.1"
+    modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
 
     // Cloth Config
-    modImplementation("me.shedaniel.cloth:cloth-config-fabric:6.1.48") {
+    modApi("me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}") {
         exclude(group: "net.fabricmc.fabric-api")
     }
 }
