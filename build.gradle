@@ -22,6 +22,7 @@ dependencies {
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
     // Fabric API Modules
+    includeFabricApiModule("fabric-api-base")
     includeFabricApiModule "fabric-key-binding-api-v1"
     includeFabricApiModule "fabric-lifecycle-events-v1"
 
@@ -30,6 +31,9 @@ dependencies {
 
     // Cloth Config
     modApi("me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}") {
+        exclude(group: "net.fabricmc.fabric-api")
+    }
+    include("me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}") {
         exclude(group: "net.fabricmc.fabric-api")
     }
 }
