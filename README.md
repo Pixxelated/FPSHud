@@ -1,11 +1,11 @@
 This mod is inspired by [Grayray's FPS-Display](https://github.com/Grayray75/FPS-Display/releases)! ❤️
 
+Requires [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu), [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config), and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ## About:
 A Fabric mod that displays your FPS on the HUD.
 ![in-game screenshot](https://i.imgur.com/YE0XOTs.png)
 
 ## Features:
-Requires [Mod Menu](https://github.com/TerraformersMC/ModMenu) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * Toggle display, shadow, and background
 * Change opacity and color
 * Hold Key to Show FPS
