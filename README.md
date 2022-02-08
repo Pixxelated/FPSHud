@@ -16,4 +16,4 @@ A Fabric mod that displays your FPS on the HUD.
 * CurseForge: https://www.curseforge.com/minecraft/mc-mods/fps-hud
 * Github Releases: https://github.com/Pixxelated/FPSHud/releases
 
-[!["Buy Me A Coffee"](https://i.imgur.com/G9MyhEo.png)](https://ko-fi.com/pixxel)
+[!["Buy Me A Coffee"](https://i.imgur.com/F53i4LY.png)](https://ko-fi.com/pixxel)
