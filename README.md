@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/65382490/153077494-0043eaa2-4d76-4c25-b221-99a5595f77e7.png)
-
 This mod is inspired by [Grayray's FPS-Display](https://github.com/Grayray75/FPS-Display/releases)! ❤️
 
 Requires [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu), [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config), and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
@@ -17,3 +15,5 @@ A Fabric mod that displays your FPS on the HUD.
 ## Downloads:
 * CurseForge: https://www.curseforge.com/minecraft/mc-mods/fps-hud
 * Github Releases: https://github.com/Pixxelated/FPSHud/releases
+
+[!["Buy Me A Coffee"](https://i.imgur.com/G9MyhEo.png)](https://ko-fi.com/pixxel)
