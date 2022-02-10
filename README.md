@@ -6,13 +6,14 @@ A Fabric mod that displays your FPS on the HUD.
 ![in-game screenshot](https://i.imgur.com/YE0XOTs.png)
 
 ## Features:
+**Lots of customization options!**
 * Toggle display, shadow, and background
 * Change where the FPS is displayed
 * Change opacity and color
 * Hold Key to Show FPS
 * Bind a key for toggle or hold to show FPS
 
-![Config menu using Mod Menu](https://i.imgur.com/TcofN41.png)
+![Config menu using Mod Menu](https://i.imgur.com/VKf2SUK.png)
 
 ## Downloads:
 * CurseForge: https://www.curseforge.com/minecraft/mc-mods/fps-hud
