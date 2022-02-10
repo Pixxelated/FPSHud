@@ -1,6 +1,8 @@
 {
   "text.autoconfig.fps.title": "FPS Hud",
   "text.autoconfig.fps.option.enabled": "Enabled",
+  "text.autoconfig.fps.option.topOffset": "Top Margin",
+  "text.autoconfig.fps.option.leftOffset": "Left Margin",
   "text.autoconfig.fps.option.shadow": "Text Shadow",
   "text.autoconfig.fps.option.color": "Text Color",
   "text.autoconfig.fps.option.opacity": "Text Opacity",

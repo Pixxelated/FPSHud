@@ -10,6 +10,10 @@ public class FpsConfig implements ConfigData {
 
     public boolean enabled = true;
 
+    public int leftOffset = 4;
+
+    public int topOffset = 4;
+
     public boolean shadow = false;
 
     @ConfigEntry.ColorPicker
