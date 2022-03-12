@@ -28,7 +28,7 @@ public class FpsConfig implements ConfigData {
     public int bgColor = 0x000000;
 
     @ConfigEntry.BoundedDiscrete(min = 0, max = 255)
-    public int bgOpacity = 150;
+    public int bgOpacity = 100;
 
     public boolean holdKeyToShowFps = false;
 }

@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 public class FpsMod implements ClientModInitializer {
 
     public String MOD_ID = "fps-hud";
-    public String NAME = "FPS Hud", VERSION = "v1.3.0", AUTHOR = "Pixxel", NAMEVER = NAME + " " + VERSION;
+    public String NAME = "FPS Hud", VERSION = "v1.4.0", AUTHOR = "Pixxel", NAMEVER = NAME + " " + VERSION;
     public static final Logger LOGGER = LoggerFactory.getLogger("fps-hud");
     public static Boolean SHOW_FPS;
     public static FpsConfig CONFIG;
